@@ -1,0 +1,23 @@
+{
+  "name": "5hds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateopot/5HDS.git"
+  },
+  "author": "Mateo Potin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateopot/5HDS/issues"
+  },
+  "homepage": "https://github.com/mateopot/5HDS#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  }
+}

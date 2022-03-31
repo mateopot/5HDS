@@ -10,14 +10,13 @@
     "update_at": 1648723644468
   },
   {
-    "token": "66ede66d-862c-4142-9841-1a43964b5907",
+    "token": "3c9cf4b4-305d-4b02-8910-edd440526127",
     "nom": "qdqzd",
     "description": "Description",
-    "prix": "8",
+    "prix": "10",
     "stock": "2",
-    "reference": "EUEYQAD",
-    "created_at": 1648723739386,
-    "update_at": 1648723739386,
-    "updated_at": 1648723812887
+    "reference": "EUEYQ",
+    "created_at": 1648724129397,
+    "update_at": 1648724129397
   }
 ]

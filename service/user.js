@@ -55,7 +55,7 @@ let user = {
             console.log(content);
         }
 
-        const jsonString = JSON.stringify(usersJSON, null, 2)
+        const jsonString = JSON.stringify(content, null, 2)
 
         fs.writeFile("./service/users.json", jsonString, err => {
             if (err) {

@@ -71,5 +71,4 @@ let controllers = {
 
 };
 
-//export the controller module so it can be use in another file within the application
 module.exports = controllers;
